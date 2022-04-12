@@ -38,7 +38,7 @@ Dataset used for the project can be found in this folder. It consists of data co
 # What did we learn?
 <ul>
   <li>Neural networks, keras and tensorflow
-  <li>Plotly graphs that are interactive (rendered to be png format to be visualised on GitHub)
+  <li>Plotly graphs that are interactive (rendered in png format to be visualised on GitHub)
 </ul>
 
 # References
