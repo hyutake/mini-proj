@@ -1,5 +1,5 @@
 # SC1015 mini-project assignment
-Our team's objective is to make use of the <a href="https://www.kaggle.com/datasets/unsdsn/world-happiness">World Happiness Index</a> data gathered from Kaggle to predict future happiness scores based on the variables included in the dataset. This can then be used as a metric to evaluate certain policy changes or to identify the key aspects that influence perceived happiness, which can serve to guide any prospective candidates for election in the future towards addressing matters that have more impact on one's perceived wellbeing for example.
+Our team's objective is to make use of the <a href="https://www.kaggle.com/datasets/unsdsn/world-happiness">World Happiness Index</a> data gathered from Kaggle to predict future happiness scores based on the variables included in the dataset. This can then be used as a metric to evaluate certain policy changes in countries or to identify the key aspects that can influence perceived happiness, something which could be used as a talking point for electoral candidates for example.
 
 # Libraries used
 <ul>
@@ -8,7 +8,7 @@ Our team's objective is to make use of the <a href="https://www.kaggle.com/datas
   <li>Seaborn
   <li>Plotly
   <li>Keras
-  <li>Scikit learn
+  <li>Scikit-learn
 </ul>
 
 # Problem definitionn
@@ -39,3 +39,14 @@ Dataset used for the project can be found in this folder. It consists of data co
 <ul>
   <li>Neural networks, keras and tensorflow
   <li>Plotly graphs that are interactive (rendered to be png format to be visualised on GitHub)
+</ul>
+
+# References
+<ul>
+  <li>https://www.kaggle.com/datasets/unsdsn/world-happiness
+  <li>https://plotly.com/python/choropleth-maps/
+  <li>https://plotly.github.io/plotly.py-docs/generated/plotly.express.choropleth.html
+  <li>https://towardsdatascience.com/lstm-framework-for-univariate-time-series-prediction-d9e7252699e
+  <li>https://www.youtube.com/watch?v=Mdp5pAKNNW4
+  <li>https://www.youtube.com/watch?v=S8tpSG6Q2H0
+</ul>
