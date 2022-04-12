@@ -24,7 +24,7 @@ Our team's objective is to make use of the <a href="https://www.kaggle.com/datas
 </ul>
 
 # Datasets
-Dataset used for the project can be found in this folder. It consists of data collected through the World Happiness Report for the years 2015 - 2019
+Dataset used for the project can be found in this folder. It consists of data collected through the World Happiness Report for 2015 - 2019
 
 # Conclusion
 <ul>
