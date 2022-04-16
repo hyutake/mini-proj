@@ -1,6 +1,11 @@
 # SC1015 mini-project assignment
 Our team's objective is to make use of the <a href="https://www.kaggle.com/datasets/unsdsn/world-happiness">World Happiness Index</a> data gathered from Kaggle to predict future happiness scores based on the variables included in the dataset. This can then be used as a metric to evaluate certain policy changes in countries or to identify the key aspects that can influence perceived happiness, something which could be used as a talking point for electoral candidates for example.
 
+# Contributors
+<ul>
+  <li>@hyutake (Kaihang) - Data Cleaning, EDA, Data Visualisation, Regression, LSTM
+</ul>
+
 # Libraries used
 <ul>
   <li>Pandas
