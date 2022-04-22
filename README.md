@@ -4,6 +4,7 @@ Our team's objective is to make use of the <a href="https://www.kaggle.com/datas
 # Contributors
 <ul>
   <li>@hyutake (Kaihang) - Data Cleaning, EDA, Data Visualisation, Regression, LSTM
+  <li> Wei Chun - Regression
 </ul>
 
 # Libraries used
